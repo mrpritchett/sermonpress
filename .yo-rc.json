@@ -1,0 +1,19 @@
+{
+  "generator-plugin-wp": {
+    "name": "SermonPress",
+    "homepage": "https://pritchett.media/sermonpress",
+    "description": "A sermon management plugin for WordPress",
+    "version": "0.1.0",
+    "author": "Matthew Pritchett",
+    "authoremail": "hello@pritchett.media",
+    "authorurl": "https://pritchett.media",
+    "license": "GPLv2",
+    "slug": "sermonpress",
+    "classname": "SermonPress",
+    "mainclassname": "SermonPress",
+    "classprefix": "SP_",
+    "prefix": "sermonpress",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}
